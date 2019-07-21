@@ -1,2 +1,2 @@
 # TagIdentification
-Tags identification and comparison scripts 
+Scripts for indentifying tags, reading, comparing and merging files.
